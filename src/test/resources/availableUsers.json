@@ -1,0 +1,79 @@
+[
+  {
+    "carId": "HYN1",
+    "carMake": "Hyundai",
+    "carModel": "Creta",
+    "fuelType": "Diesel",
+    "color": "Grey"
+  },
+  {
+    "carId": "HYN2",
+    "carMake": "Hyundai",
+    "carModel": "Grand i10",
+    "fuelType": "Petrol",
+    "color": "Blue"
+  },
+  {
+    "carId": "HYN3",
+    "carMake": "Hyundai",
+    "carModel": "Elantra",
+    "fuelType": "Petrol",
+    "color": "White"
+  },
+  {
+    "carId": "HON1",
+    "carMake": "Honda",
+    "carModel": "City",
+    "fuelType": "Diesel",
+    "color": "Grey"
+  },
+  {
+    "carId": "HON2",
+    "carMake": "Honda",
+    "carModel": "CRV",
+    "fuelType": "Petrol",
+    "color": "Blue"
+  },
+  {
+    "carId": "HON3",
+    "carMake": "Honda",
+    "carModel": "City",
+    "fuelType": "Petrol",
+    "color": "White"
+  },
+  {
+    "carId": "K1",
+    "carMake": "Kia",
+    "carModel": "Celtos",
+    "fuelType": "Petrol",
+    "color": "White"
+  },
+  {
+    "carId": "K2",
+    "carMake": "Kia",
+    "carModel": "Carens",
+    "fuelType": "Petrol",
+    "color": "Black"
+  },
+  {
+    "carId": "K3",
+    "carMake": "Kia",
+    "carModel": "Celtos",
+    "fuelType": "Petrol",
+    "color": "White"
+  },
+  {
+    "carId": "F1",
+    "carMake": "Ford",
+    "carModel": "EcoSport",
+    "fuelType": "Diesel",
+    "color": "Orange"
+  },
+  {
+    "carId": "F2",
+    "carMake": "Ford",
+    "carModel": "Endeavour",
+    "fuelType": "Petrol",
+    "color": "Blue"
+  }
+]
